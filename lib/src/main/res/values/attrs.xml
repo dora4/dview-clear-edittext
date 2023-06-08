@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <declare-styleable name="DoraClearEditText">
+        <attr name="dview_clearEdgeSize" format="dimension|reference"/>
+    </declare-styleable>
+</resources>
