@@ -17,3 +17,11 @@ dependencies {
     implementation 'com.github.dora4:dview-clear-edittext:$latest_version'
 }
 ```
+
+#### 控件使用
+```xml
+        <dora.widget.DoraClearEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:dview_clearEdgeSize="10dp"/>
+```
