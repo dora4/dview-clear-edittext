@@ -1,7 +1,7 @@
 dview-clear-edittext
 ![Release](https://jitpack.io/v/dora4/dview-clear-edittext.svg)
 --------------------------------
-![Uploading DORA视图 流体吸收者.jpeg…]()
+![DORA视图 流体吸收者](https://github.com/user-attachments/assets/f61a1a39-275d-40fc-8bda-8aa8bd86b677)
 
 ##### 卡名：Dora视图 Clear EditText 
 ###### 卡片类型：效果怪兽
